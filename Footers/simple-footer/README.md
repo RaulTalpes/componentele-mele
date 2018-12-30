@@ -1,0 +1,1 @@
+Un simplu footer cu 3 butoane, Back to Top, Terms of Use si Privacy. Contine numele firmei, anul si All Rights Reserved pe un fundal negru.
